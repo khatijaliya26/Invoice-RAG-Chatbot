@@ -20,17 +20,14 @@ credentials/
 
 # Local invoice documents and extracted data
 *.pdf
-*.png
 *.jpg
 *.jpeg
 *.tif
 *.tiff
-data/
-uploads/
-outputs/
-extracted/
-*.json
-*.md.tmp
+
+# Ignore PNG images except repository screenshots
+*.png
+!screenshots/*.png
 
 # Model weights and generated vector indexes
 *.safetensors
