@@ -52,7 +52,7 @@ Gradio Interface
 
 ### Invoice 1 – Processing and Question Answering
 
-![Invoice 1 Upload and Processing](screenshots/01-invoice-1-upload-and-processing)
+![Invoice 1 Upload and Processing](screenshots/01-invoice-1-upload-and-processing.png)
 
 ![Invoice 1 Chatbot Q&A](screenshots/02-invoice-1-chatbot-qa.png)
 
