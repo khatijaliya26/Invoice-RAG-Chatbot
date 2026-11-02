@@ -58,7 +58,7 @@ Gradio Interface
 
 ![Invoice 1 Retrieved Sources](screenshots/03-invoice-1-chatbot-qa.-with-retrieved-sources.png)
 
-![Invoice 1 Summarization](screenshots/04-invoice-1-chatbot-qa-with-summarization.png)
+![Invoice 1 Summarization](screenshots/04-invoice-1-chatbot-qa.-with-summarization.png)
 
 ### Invoice 2 – Processing and Question Answering
 
