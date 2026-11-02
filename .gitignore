@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local invoice documents and extracted data
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+data/
+uploads/
+outputs/
+extracted/
+*.json
+*.md.tmp
+
+# Model weights and generated vector indexes
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+*.faiss
+*.index
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db

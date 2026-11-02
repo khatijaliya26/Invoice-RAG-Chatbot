@@ -1,0 +1,11 @@
+# Core document extraction, retrieval, generation, and interface dependencies
+docling
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+huggingface-hub
+gradio
+numpy
+
+# Install a PyTorch build compatible with your runtime separately if needed.
